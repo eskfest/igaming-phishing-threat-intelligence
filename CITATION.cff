@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this threat intelligence dataset, please cite it as below."
+authors:
+- family-names: "Security Research Team"
+  given-names: "Eskfest"
+title: "iGaming Phishing & Fraud Threat Intelligence Dataset"
+version: 1.0.0
+date-released: 2026-01-30
+url: "https://eskfest.org/"
+repository-code: "https://github.com/eskfest/igaming-phishing-threat-intelligence"
+license: CC-BY-4.0
+keywords:
+  - cybersecurity
+  - phishing-detection
+  - threat-intelligence
+  - fraud-prevention
