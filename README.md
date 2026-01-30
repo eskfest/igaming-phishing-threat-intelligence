@@ -34,4 +34,4 @@ This dataset is open for public use to enhance internet safety. If you use this 
 This project is strictly for **educational and cybersecurity defense purposes**. The authors do not endorse gambling but advocate for the safety of digital consumers against fraud.
 
 ---
-*For threat reporting or removal requests, please visit our official website at [eskfest.org](https://eskfest.org).*
+*For threat reporting or removal requests, please visit the [Eskfest Security Center](https://eskfest.org/guvenlik-merkezi/).*
