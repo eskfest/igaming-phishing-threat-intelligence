@@ -1,6 +1,6 @@
 # iGaming Phishing & Fraud Threat Intelligence Dataset
 
-**Maintainer:** Eskfest Security Research Team  
+**Maintainer:** Eskfest Security Research Team 
 **Region Focus:** Turkey (TR) / EMEA  
 **Last Update:** 2026-01-30  
 **License:** CC BY 4.0  
@@ -21,7 +21,7 @@ The dataset categorizes threats into specific vectors commonly observed in the T
 ## Methodology
 Data is collected via:
 1.  **Passive DNS Monitoring:** Tracking newly registered domains mimicking major industry keywords.
-2.  **User Reports:** Aggregated threat reports from the Eskfest consumer protection portal.
+2.  **User Reports:** Aggregated threat reports verified by the [Eskfest.org](https://eskfest.org) consumer protection protocol.
 3.  **Heuristic Analysis:** Manual verification of site behaviors (redirects, form fields).
 
 ## Usage & Citation
@@ -32,3 +32,6 @@ This dataset is open for public use to enhance internet safety. If you use this 
 
 ## Disclaimer
 This project is strictly for **educational and cybersecurity defense purposes**. The authors do not endorse gambling but advocate for the safety of digital consumers against fraud.
+
+---
+*For threat reporting or removal requests, please visit our official website at [eskfest.org](https://eskfest.org).*
