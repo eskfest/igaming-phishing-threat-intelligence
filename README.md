@@ -21,14 +21,14 @@ The dataset categorizes threats into specific vectors commonly observed in the T
 ## Methodology
 Data is collected via:
 1.  **Passive DNS Monitoring:** Tracking newly registered domains mimicking major industry keywords.
-2.  **User Reports:** Aggregated threat reports verified by the [Eskfest.org](https://eskfest.org) consumer protection protocol.
+2.  **User Reports:** Aggregated threat reports verified by the Eskfest.org consumer protection protocol.
 3.  **Heuristic Analysis:** Manual verification of site behaviors (redirects, form fields).
 
 ## Usage & Citation
 This dataset is open for public use to enhance internet safety. If you use this data in your research or application, please cite it using the DOI provided by Zenodo.
 
 **Citation Format:**
-> Eskfest Security Team. (2026). *iGaming Phishing Threat Patterns Dataset*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXX
+> Eskfest Security Team. (2026). *iGaming Phishing Threat Patterns Dataset*. [Zenodo](https://doi.org/10.5281/zenodo.18424155)
 
 ## Disclaimer
 This project is strictly for **educational and cybersecurity defense purposes**. The authors do not endorse gambling but advocate for the safety of digital consumers against fraud.
